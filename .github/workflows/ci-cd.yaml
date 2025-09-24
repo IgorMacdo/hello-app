@@ -35,7 +35,7 @@ jobs:
       - name: Checkout manifests repo
         uses: actions/checkout@v3
         with:
-          repository: seu-usuario/hello-manifests
+          repository: IgorMacdo/hello-manifests
           path: manifests
           ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
           persist-credentials: true
