@@ -27,7 +27,7 @@ jobs:
           context: .
           push: true
           tags: ${{ secrets.DOCKER_USERNAME }}/hello-app:latest, ${{ secrets.DOCKER_USERNAME }}/hello-app:${{ github.sha }}
-          file: ~/Projeto/hello-app/DockerFile
+          file: ~/Projeto/hello-app/Dockerfile
 
       - name: Set up SSH
         uses: webfactory/ssh-agent@v0.8.0
