@@ -8,7 +8,7 @@ Acesse o site https://rancherdesktop.io e faça o download para windows e siga o
 ![Instalação do Rancher](Imagens/Rancher_Instalacao.png)
 Quando o programa abrir, acesse a aba "Preferences", marcada em vermelho na imagem abaixo.
 
-![Preferências do Rancher](imagens/Rancher_Preference.png)
+![Preferências do Rancher](Imagens/Rancher_Preference.png)
 
 OBS: A marcação em verde, aguarde ela sumir para prosseguir na utilização do programa, pois ele estará inicializando todos os serviços, então é essencial aguardar.
 
