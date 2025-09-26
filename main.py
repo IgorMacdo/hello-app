@@ -7,7 +7,7 @@ app = FastAPI()
 
 @app.get("/")
 def read_root():
-    return {"message": "Olá, CI/CD com GitHub Actions e ArgoCD! Uhuuuuuuul"}
+    return {"message": "Olá, CI/CD com GitHub Actions e ArgoCD!"}
 
 
 @app.get("/items/{item_id}")
