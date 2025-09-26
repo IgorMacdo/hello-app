@@ -43,7 +43,7 @@ Agora, vamos provar que o seu pipeline de CI/CD funciona de ponta a ponta.
 Concluindo, a porta 8080 estará sendo utilizada pelo ArgoCD e a 8081 pelo App Service.
 
 
-![Tela de Conclusão](imagens/Conclusao.png)
+![Tela de Conclusão](Imagens/Conclusao.png)
 
-![Tela de Conclusão 2](imagens/Conclusao2.png)
+![Tela de Conclusão 2](Imagens/Conclusao2.png)
 
