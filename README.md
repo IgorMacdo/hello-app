@@ -32,3 +32,9 @@ Pré-requisitos
 · Git instalado
 
 · Python 3 e Docker instalados
+
+### Sumário
+
+- [Etapa 1 - Instalação do Ambiente](Etapa%201%20-%20Instalação%20do%20Ambiente.md)
+- [Etapa 2 - Configuração](Etapa%202%20-%20Configuração.md)
+- [Conclusão](Conclusão.md)
