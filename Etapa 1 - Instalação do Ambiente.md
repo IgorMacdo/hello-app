@@ -1,11 +1,11 @@
 Instalação da WSL numa máquina Windows. Acesse a Microsoft Store e pesquise por Ubuntu, selecione a versão mais recente e clique em instalar.
 
-![WSL na Store](imagens/WSL_Store.png)
+![WSL na Store](Imagens/WSL_Store.png)
 
 Rancher Desktop:
 Acesse o site https://rancherdesktop.io e faça o download para windows e siga o passo a passo de instalação.
 
-![Instalação do Rancher](imagens/Rancher_Instalacao.png)
+![Instalação do Rancher](Imagens/Rancher_Instalacao.png)
 Quando o programa abrir, acesse a aba "Preferences", marcada em vermelho na imagem abaixo.
 
 ![Preferências do Rancher](imagens/Rancher_Preference.png)
@@ -14,7 +14,7 @@ OBS: A marcação em verde, aguarde ela sumir para prosseguir na utilização do
 
 Busque a aba WSL e marque as opções ubuntu, em seguida pressione "Apply"
 
-![Rancher no WSL](imagens/Rancher_WSL.png)
+![Rancher no WSL](Imagens/Rancher_WSL.png)
 
 
 Abra o WSL e execute os seguintes comandos:
