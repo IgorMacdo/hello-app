@@ -70,17 +70,17 @@ Agora é a parte central do projeto: a automação.
 
 Para criar o token, acesse a aba `Account Settings`
 
-![Perfil Docker](imagens/Docker_Profile.png)
+![Perfil Docker](Imagens/Docker_Profile.png)
 
 No canto esquerdo inferior procure  `Settings` e `Personal access tokens` e clique em **Generate New Token**
 
 
 
-![Token Docker](imagens/Docker_Token.png)
+![Token Docker](Imagens/Docker_Token.png)
 
 Dê um nome ao token e deixe as duas opções abaixo selecionadas
 
-![Token Criado](imagens/Token_Criado.png)
+![Token Criado](Imagens/Token_Criado.png)
 
 - `SSH_PRIVATE_KEY`: A chave privada SSH que dará acesso ao GitHub Actions para fazer push no repositório `hello-manifests`. Você precisará configurar a chave pública no repositório de manifests.
 
@@ -308,20 +308,20 @@ Após preencher todos esses campos, clique em **Create** no canto superior esque
 O ArgoCD irá se conectar ao seu repositório de manifests, ler os arquivos `deployment.yaml` e `service.yaml` e aplicar essas configurações automaticamente no seu cluster Kubernetes local. Se tudo estiver correto, o aplicativo aparecerá como **`Synced`** na interface do ArgoCD.
 
 
-![Criando App no ArgoCD](imagens/Argo_CriandoAPP.png)
+![Criando App no ArgoCD](Imagens/Argo_CriandoAPP.png)
 
-![Configurando App no ArgoCD](imagens/Argo_CriandoAPP2.png)
+![Configurando App no ArgoCD](Imagens/Argo_CriandoAPP2.png)
 
 
 
 O ArgoCD deverá ficar desse formato
 
-![ArgoCD em funcionamento](imagens/ArgoCD_UP.png)
+![ArgoCD em funcionamento](Imagens/ArgoCD_UP.png)
 
 
 Confira a aba de Action no GitHub pra ver se está tudo certo.
 
-![Action no GitHub](imagens/ActionGH.png)
-![Passos da Action](imagens/Actiion.png)
+![Action no GitHub](Imagens/ActionGH.png)
+![Passos da Action](Imagens/Actiion.png)
 
-![Visão geral da Action](imagens/Action.png)
+![Visão geral da Action](Imagens/Action.png)
